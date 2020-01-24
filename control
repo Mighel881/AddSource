@@ -1,0 +1,9 @@
+Package: com.yuosaf01.addsource
+Name: Addsource
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader, ws.hbang.common
+Architecture: iphoneos-arm
+Description: Add the copied URL to Cydia sources automatically
+Maintainer: yuosaf01 & 3bod_syr
+Author: yuosaf01 & 3bod_syr
+Section: Tweaks
+Version: 2.3.1

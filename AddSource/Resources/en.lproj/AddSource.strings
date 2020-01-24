@@ -1,0 +1,13 @@
+{
+    ENABLE = "Add multiple sources at once";
+    ENABLE2 = "copy source";
+    ENABLE3 = "Delete source quickly";
+    ENABLE4 = "Update the sources in the background";
+    ENABLE5 = "Select sources and then delete/copy";
+    CLOSECYDIA = "Close Cydia";
+    DEV = "Developers";
+    BUY = "Buy me coffee";
+    SUPPORT = "Support us to continue!";
+    
+
+}
